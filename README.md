@@ -59,7 +59,7 @@ Make sure you have the following prerequisites installed:
 
 <p align="center">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
-  <h2 align="center">Haberman Dataset</h2>
+  <h2 align="center">Cardiovascular Disease Dataset</h2>
   <p align="center">🏆 Machine learning project🏆</p>
 <p align="center">
   <a href="https://github.com/Redoy365?tab=repositories">
